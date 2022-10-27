@@ -1,0 +1,16 @@
+https://github.com/rohithadap/14octtodaynight.git
+
+commands
+
+$ git init
+$ git remote add origin "https://github.com/rohithadap/14octtodaynight.git"
+$ git status
+$ git add -A
+$ git commit -m "any comment is compulsary"
+$ git push -u origin master
+$ git pull origin master
+
+
+
+
+
